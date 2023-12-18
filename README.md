@@ -1,1 +1,1 @@
-# MCQ
+# MCQ Quiz System using Python
