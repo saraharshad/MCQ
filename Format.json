@@ -1,0 +1,170 @@
+{
+  "questionnaire_state": {
+    "questions_asked": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "questions_skipped": [
+      3
+    ],
+    "correct": []
+  },
+  "initilized": true,
+  "questions": {
+    "questions": [
+      {
+        "correct_option_index": 2,
+        "question": "How far away is the moon from Earth?",
+        "options": [
+          "4.5 billion years",
+          "239,000 miles",
+          "93 billion light years"
+        ],
+        "was_answered": false,
+        "was_skipped": false
+      },
+      {
+        "correct_option_index": 0,
+        "question": "What is the estimated diameter of space?",
+        "options": [
+          "93 billion light years",
+          "100 trillion galaxies",
+          "239,000 miles"
+        ],
+        "was_answered": false,
+        "was_skipped": false
+      },
+      {
+        "correct_option_index": 2,
+        "question": "What is the speed of light?",
+        "options": [
+          "100 trillion galaxies",
+          "4.5 billion years",
+          "93 billion light years"
+        ],
+        "was_answered": false,
+        "was_skipped": false
+      },
+      {
+        "correct_option_index": 0,
+        "question": "What is the estimated size of space?",
+        "options": [
+          "93 billion light years",
+          "239,000 miles",
+          "4.5 billion years"
+        ],
+        "was_answered": false,
+        "was_skipped": false
+      },
+      {
+        "correct_option_index": 2,
+        "question": "What is the origin of the moon?",
+        "options": [
+          "239,000 miles",
+          "93 billion light years",
+          "4.5 billion years"
+        ],
+        "was_answered": false,
+        "was_skipped": false
+      }
+    ]
+  },
+  "user_input": "space",
+  "options_state": {
+    "q1": {
+      "1": {
+        "selected": true,
+        "disabled": true
+      },
+      "2": {
+        "selected": false,
+        "disabled": true
+      },
+      "3": {
+        "selected": false,
+        "disabled": true
+      },
+      "skip_q1": {
+        "selected": false,
+        "disabled": true
+      }
+    },
+    "q2": {
+      "1": {
+        "selected": false,
+        "disabled": true
+      },
+      "2": {
+        "selected": true,
+        "disabled": true
+      },
+      "3": {
+        "selected": false,
+        "disabled": true
+      },
+      "skip_q2": {
+        "selected": false,
+        "disabled": true
+      }
+    },
+    "q3": {
+      "1": {
+        "selected": false,
+        "disabled": true
+      },
+      "2": {
+        "selected": false,
+        "disabled": true
+      },
+      "3": {
+        "selected": false,
+        "disabled": true
+      },
+      "skip_q3": {
+        "selected": true,
+        "disabled": true
+      }
+    },
+    "q4": {
+      "1": {
+        "selected": false,
+        "disabled": true
+      },
+      "2": {
+        "selected": true,
+        "disabled": true
+      },
+      "3": {
+        "selected": false,
+        "disabled": true
+      },
+      "skip_q4": {
+        "selected": false,
+        "disabled": true
+      }
+    },
+    "q5": {
+      "1": {
+        "selected": true,
+        "disabled": true
+      },
+      "2": {
+        "selected": false,
+        "disabled": true
+      },
+      "3": {
+        "selected": false,
+        "disabled": true
+      },
+      "skip_q5": {
+        "selected": false,
+        "disabled": true
+      }
+    }
+  },
+  "user_score": 0,
+  "num_question": 5,
+}
