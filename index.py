@@ -277,16 +277,14 @@ def clear_state():
 
     
 ### Render UI and combine all together
-st.title('Sarah PWC Quiz App')
-st.write('Topic Based Quiz App')
-
+st.title('MCQ Quiz App')
 
 # user_input = st.text_input("Enter a topic for your quiz")
 num_questions = st.number_input("Enter the number of questions", min_value=1, max_value=10, value=5, key = 'num_question')
 
 user_input = st.text_area(
     'Enter your topic', 
-    'space',
+    'enter topic here',
     key='user_input',
     max_chars=50)
 
